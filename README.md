@@ -21,7 +21,6 @@ npm test
 
 
 
-
 Basic Route
 
 
@@ -46,18 +45,22 @@ Basic Route
 **Query String Parameters**
 
 
+![image](https://user-images.githubusercontent.com/91416868/195626512-05ddb904-7c68-42ae-91ec-225eb2268ee8.png)
 
 
 ![image](https://user-images.githubusercontent.com/91416868/195625002-075b6b89-e1f0-4cfe-a58b-c0c3b241547b.png)
+
+![image](https://user-images.githubusercontent.com/91416868/195625143-85f7e179-9915-4be9-a18b-4f4a06dbfd0d.png)
 
 
 
 **Multiple query string parameters**
 
 
-![image](https://user-images.githubusercontent.com/91416868/195625143-85f7e179-9915-4be9-a18b-4f4a06dbfd0d.png)
+![image](https://user-images.githubusercontent.com/91416868/195626619-79d79217-bad9-46b4-a4ce-8ddbd86be8c1.png)
 
 
+![Uploading image.png…]()
 
  
 

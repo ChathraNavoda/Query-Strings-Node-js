@@ -50,7 +50,7 @@ Basic Route
 
 **Multiple query string parameters**
 
-![image](https://user-images.githubusercontent.com/91416868/195628018-1cc6656e-e5a8-4ac8-9c19-afcf7102164c.png)
+![image](https://user-images.githubusercontent.com/91416868/195628687-852bd570-a05f-4bde-ade0-f4970b941988.png)
 
 
 ![image](https://user-images.githubusercontent.com/91416868/195626619-79d79217-bad9-46b4-a4ce-8ddbd86be8c1.png)

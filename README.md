@@ -35,9 +35,6 @@ Basic Route
 ![image](https://user-images.githubusercontent.com/91416868/195624322-3a5790b7-0796-420c-b108-c767c415c606.png)
 
 
-![image](https://user-images.githubusercontent.com/91416868/195624952-951a571a-4abe-4b6f-802d-c7493a456bed.png)
-
-
 
 **Query String Parameters**
 
@@ -53,11 +50,11 @@ Basic Route
 
 **Multiple query string parameters**
 
+![image](https://user-images.githubusercontent.com/91416868/195628018-1cc6656e-e5a8-4ac8-9c19-afcf7102164c.png)
+
 
 ![image](https://user-images.githubusercontent.com/91416868/195626619-79d79217-bad9-46b4-a4ce-8ddbd86be8c1.png)
 
-
-![Uploading image.png…]()
 
  
 

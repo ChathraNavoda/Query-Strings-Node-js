@@ -5,39 +5,24 @@ Project Url
 https://github.com/ChathraNavoda/Query-Strings-Node-js.git
 
 
-**Project setup**
+***Project setup***
 
-*Installation*
+**Installation**
+
 npm i  
 
-To run the app
+**To run the app**
 node app  
 
-To test 
+**To test** 
 npm test
-
-package.json
-{
-  "scripts": {
-    "test": "jest"
-  },
-  "dependencies": {
-    "express": "^4.18.2",
-    "jest": "^29.1.2"
-  }
-}
-
-
-
-
-
-
 
 
 
 
 Basic Route
 
+![image](https://user-images.githubusercontent.com/91416868/195623751-d26847fd-2f94-428d-99bd-3056f759f669.png)
 
  
 

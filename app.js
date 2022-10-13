@@ -17,5 +17,7 @@ app.get("/test", (req, res) => {
  will print out the object and the value that contains the object.  */
 app.get("/test/:name/:age", (req, res) => {
   console.log(req.params);
-  res.send("Test with route params");
+
+  //send output to the user
+  res.send(req.params.name + ":" + req.params.age);
 });

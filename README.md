@@ -35,9 +35,6 @@ Basic Route
 ![image](https://user-images.githubusercontent.com/91416868/195624322-3a5790b7-0796-420c-b108-c767c415c606.png)
 
 
-![image](https://user-images.githubusercontent.com/91416868/195624403-c58730e7-b7bc-4e88-8607-853680c586fb.png)
-
-
 ![image](https://user-images.githubusercontent.com/91416868/195624952-951a571a-4abe-4b6f-802d-c7493a456bed.png)
 
 

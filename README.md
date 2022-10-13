@@ -12,9 +12,11 @@ https://github.com/ChathraNavoda/Query-Strings-Node-js.git
 npm i  
 
 **To run the app**
+
 node app  
 
 **To test** 
+
 npm test
 
 
@@ -22,61 +24,39 @@ npm test
 
 Basic Route
 
+
 ![image](https://user-images.githubusercontent.com/91416868/195623751-d26847fd-2f94-428d-99bd-3056f759f669.png)
 
  
-
+![image](https://user-images.githubusercontent.com/91416868/195624143-550f52f1-deb6-416d-b35c-9d0676ce3b45.png)
  
 
-Route Params
+**Route Params**
 
- 
- 
+![image](https://user-images.githubusercontent.com/91416868/195624322-3a5790b7-0796-420c-b108-c767c415c606.png)
 
-//route parameters
-/*Route params are typically used for info that can't be ignored. After executing the program the "(req.params)"
- will print out the object and the value that contains the object.  */
-app.get("/test/:name/:age", (req, res) => {
-  console.log(req.params);
-  res.send("Test with route params");
-});
 
- 
-//route parameters
-/*Route params are typically used for info that can't be ignored. After executing the program the "(req.params)"
- will print out the object and the value that contains the object.  */
-app.get("/test/:name/:age", (req, res) => {
-  console.log(req.params);
+![image](https://user-images.githubusercontent.com/91416868/195624403-c58730e7-b7bc-4e88-8607-853680c586fb.png)
 
-  //send output to the user
-  res.send(req.params.name + ":" + req.params.age);
-});
- 
+
+![image](https://user-images.githubusercontent.com/91416868/195624498-723cc026-ff25-4438-aa06-393ae2d7649c.png)
+
+
+**Query String Parameters**
+![image](https://user-images.githubusercontent.com/91416868/195624952-951a571a-4abe-4b6f-802d-c7493a456bed.png)
+
+
+![image](https://user-images.githubusercontent.com/91416868/195625002-075b6b89-e1f0-4cfe-a58b-c0c3b241547b.png)
 
 
 
+**Multiple query string parameters**
+
+
+![image](https://user-images.githubusercontent.com/91416868/195625143-85f7e179-9915-4be9-a18b-4f4a06dbfd0d.png)
 
 
 
-Query String Parameters
-//query parameters
-  /*Query String params are typically used for optional request such as requesting the data to be sorted in a certain way.
-   */
-  console.log(req.query);
-  res.send(req.params.name + ":" + req.params.age);
-
-
-Empty object is going to be the string parameter
- 
-
- 
-
-After entering the values
-
- 
-
-
-Multiple query string parameters
  
 
 Test with Jest

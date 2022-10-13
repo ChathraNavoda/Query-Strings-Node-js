@@ -43,6 +43,8 @@ Basic Route
 
 
 **Query String Parameters**
+
+
 ![image](https://user-images.githubusercontent.com/91416868/195624952-951a571a-4abe-4b6f-802d-c7493a456bed.png)
 
 

@@ -19,5 +19,11 @@ app.get("/test/:name/:age", (req, res) => {
   console.log(req.params);
 
   //send output to the user
+  //res.send(req.params.name + ":" + req.params.age);
+
+  //query string parameters
+  /*Query String params are typically used for optional request such as requesting the data to be sorted in a certain way.
+   */
+  console.log(req.query);
   res.send(req.params.name + ":" + req.params.age);
 });
